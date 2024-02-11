@@ -1,2 +1,2 @@
 # G-Manasa
-g
+g manasa
